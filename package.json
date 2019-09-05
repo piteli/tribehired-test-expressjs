@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "firebase": "^5.9.3",
+    "mongodb": "^3.3.2",
     "password-generator": "^2.2.0"
   }
 }
